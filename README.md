@@ -13,3 +13,8 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </p>  
+
+<br/>  
+
+## Github Stats                     
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kunal1198&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="center"/> </p>
