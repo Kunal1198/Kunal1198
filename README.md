@@ -1,6 +1,6 @@
 ### Hi 👋,I'm Kunal
 
-- 🔭 I’m currently working on Django Framework
+- 🔭 I’m currently working on Django Framework and improving my Data Structure & Algorithms
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on Open Source Projects
 
@@ -18,7 +18,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code"    width="40" height="40" />
-
 </p>
 
 ## Github Stats                     
