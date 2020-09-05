@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on Open Source Projects
 
+## Github Stats                     
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kunal1198&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="center"/> </p>
+
 ## Connect with me  
 <p align="center">
   <a href="https://github.com/Kunal1198" target="_blank">
@@ -16,5 +19,6 @@
 
 <br/>  
 
-## Github Stats                     
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kunal1198&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="center"/> </p>
+<p align="center">
+  <img align='center' src="https://komarev.com/ghpvc/?username=Kunal1198&color=blue">
+</p>
