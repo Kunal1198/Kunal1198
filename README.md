@@ -1,7 +1,7 @@
 ### Hi 👋,I'm Kunal
 
-- 🔭 I’m currently working on Django Framework and improving my Data Structure & Algorithms
-- 🌱 I’m currently learning Reactjs
+- 🔭 I’m currently working on Kubernetes and improving my Data Structure & Algorithms
+- 🌱 I’m currently learning different monitoring tools
 - 👯 I’m looking to collaborate on Open Source Projects
 
 ## My Skill Set
